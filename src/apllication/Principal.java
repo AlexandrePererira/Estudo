@@ -8,7 +8,7 @@ public class Principal {
 	   Scanner sc  = new Scanner(System.in);
 	   System.out.println("Entre com seu nome");
 	   String nome =  sc.next(); 
-	   System.out.println("Seja bem vindo "+nome);
+	   System.out.println("Seja bem vindo ao teste 01"+nome);
 	 
 	   
 	 
